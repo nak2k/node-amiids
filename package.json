@@ -1,0 +1,17 @@
+{
+  "name": "amiids",
+  "version": "0.0.1",
+  "description": "AMIIDs for AWS.",
+  "keywords": [ "amazon", "aws", "ec2" ],
+  "homepage": "https://github.com/nak2k/node-amiids",
+  "bugs": "https://github.com/nak2k/node-amiids/issues",
+  "license": "MIT",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com> (http://nak2k.jp)",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nak2k/node-amiids"
+  },
+  "scripts": {
+  }
+}
