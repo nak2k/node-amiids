@@ -1,6 +1,6 @@
 {
   "name": "amiids",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AMIIDs for AWS.",
   "keywords": [ "amazon", "aws", "ec2" ],
   "homepage": "https://github.com/nak2k/node-amiids",
